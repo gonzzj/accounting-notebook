@@ -1,0 +1,14 @@
+// --- TRANSACTION ---
+
+$debit: rgb(200, 238, 255);
+$credit: rgb(255, 208, 215);
+
+.transaction {
+    &-credit {
+        background-color: $credit;
+    }
+
+    &-debit {
+        background-color: $debit;
+    }
+}

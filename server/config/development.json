@@ -1,0 +1,8 @@
+{
+	"app_name": "accounting-notebook",
+	"port": 3001,
+	"basePathApi": "",
+	"services": {
+		"defaultConnectionTimeout": 10000
+	}
+}
